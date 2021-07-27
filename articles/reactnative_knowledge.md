@@ -3,7 +3,7 @@ title: "ReactNativeの開発環境を構築する"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ReactNative"]
-published: false
+published: true
 ---
 
 # 初期構築

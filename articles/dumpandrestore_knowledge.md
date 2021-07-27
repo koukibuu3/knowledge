@@ -3,7 +3,7 @@ title: "dumpファイルのリストア方法"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["dump", "Heroku"]
-published: false
+published: true
 ---
 
 # dumpファイルのリストア

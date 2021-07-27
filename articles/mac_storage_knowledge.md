@@ -3,7 +3,7 @@ title: "Macのストレージを空ける"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Mac"]
-published: false
+published: true
 ---
 
 # iOS Simulator関連の削除

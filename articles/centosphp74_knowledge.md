@@ -3,7 +3,7 @@ title: "CentOSのPHPを7.4にする"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["CentOS", "PHP"]
-published: false
+published: true
 ---
 
 ```sh

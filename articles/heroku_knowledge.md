@@ -3,7 +3,7 @@ title: "Herokuのよく使うコマンド集"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Heroku"]
-published: false
+published: true
 ---
 
 # コマンド集

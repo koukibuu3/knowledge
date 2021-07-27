@@ -3,7 +3,7 @@ title: "iOSアプリを実機にインストールする"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["iOS", "XCode"]
-published: false
+published: true
 ---
 
 # CSRファイルの生成
